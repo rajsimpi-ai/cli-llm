@@ -82,4 +82,4 @@ Contributions are welcome! Fork the repo, work on a feature branch, and open a P
 
 ## 📜 License
 
-MIT License © 2025 \Raj Simpi
+MIT License © 2025 Raj Simpi
